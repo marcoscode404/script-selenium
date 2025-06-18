@@ -1,2 +1,15 @@
-# script-selenium
-Testando Script que abre uma pagina e a fecha 5s depois
+uv
+
+uv init
+
+uv venv 
+
+uv add fastapi
+
+uv async
+
+
+
+-- rode este comando
+uv add selenium webdriver-manager
+
